@@ -61,7 +61,6 @@ body * {
 
 #quadrant-se {
   background-image: url(assets/loop.png);
-  background-size: cover;
 }
 
 #quadrant-se .cell:hover {
